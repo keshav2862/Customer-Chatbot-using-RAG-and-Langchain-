@@ -1,5 +1,5 @@
 Steps to install the chatbot:
-use python 3.9
+use python 3.9-3.11
 
 1) Create a virtual environment
 
